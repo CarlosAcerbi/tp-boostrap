@@ -88,7 +88,37 @@ div {
 .fotos h5{
     padding-left: 10px;
     padding-right: 10px;
+    margin-top: -15px;
 }
+
+.fondo{
+    background-color: rgb(255, 153, 0);
+    border-radius: 3px;
+    padding: 2px;
+    font-weight: bold;
+}
+.fondo1{
+    background-color: rgb(21, 2, 194);
+    border-radius: 3px;
+    padding: 2px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+.fondo2{
+    background-color: rgb(0, 0, 0);
+    border-radius: 3px;
+    padding: 2px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+.fondo3{
+    background-color: rgb(255, 1, 1);
+    border-radius: 3px;
+    padding: 2px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
 .honolulu{
     width: 100%;
 }
