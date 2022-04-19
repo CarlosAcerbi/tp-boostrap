@@ -1,0 +1,185 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    min-width: 750px;
+}
+header .navbar-brand{
+    font-size: 110% !important;
+}
+header .navbar-brand img{
+    width: 25% !important;
+    margin-left: 20%;
+}
+header .navbar-nav{
+    margin-left: 15%;
+}
+header li:last-child .nav-link {
+    color: rgb(151, 197, 106) !important;
+}
+header li:last-child a:hover {
+    color: rgb(219, 219, 219) !important;
+}
+
+div {
+    display: inline-block;
+}
+.texto-interno {
+    float: right;
+    margin-right: 8%;
+    text-align: right;
+    position:relative;
+    margin-top: 27%;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 2px black;
+}
+.boton-claro{
+    color:white;
+    background:none;
+    border: 2px solid white;
+    padding: 2px 8px;
+    text-shadow: 1px 1px 2px black;
+    border-radius: 5px;
+    margin-right: 2px;
+}
+.boton-oscuro{
+    color:white;
+    background:rgb(0, 253, 0);
+    padding: 2px 8px;
+    border-radius: 5px;
+    margin-left: 2px;
+    border: 2px solid rgb(0, 253, 0);
+}
+
+/*contenido de la pagina*/
+
+.titulos {
+    width:100%;
+}
+.contenedor-fotos {
+    width:100%;
+    text-align: center;
+}
+.titulos p{
+    text-align: center;
+    font-size: 70%;
+}
+.titulos h3{
+    text-align: center;
+    margin-top: -15px;
+}
+.fotos {
+    width: 228px;
+    border: 1px solid rgb(184, 184, 184);
+    border-radius: 5px;
+    margin: 8px;
+    text-align: left;
+}
+.fotos img{
+    width: 228px;
+    height: 228px;
+}
+.fotos p{
+    font-size: 70%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.fotos h5{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.honolulu{
+    width: 100%;
+}
+.honolulu table{
+    width: 100%;
+    border: 1px solid white;
+}
+.honolulu table td{
+    border: 1px solid white;
+}
+
+.honolulu table img {
+    width: 100%;
+}
+.honolulu #achicar{
+    background-color: black;
+    width: 50%;
+    vertical-align: top;
+}
+.honolulu #achicar h4 {
+    margin: 20px 20px 0 20px;
+    color: rgb(255, 255, 255);
+}
+.honolulu #achicar p{
+    margin: 5px 20px 0px 20px;
+    color: rgb(255, 255, 255);
+    font-size: 80%;
+}
+
+/* formulario*/
+
+.formulario{
+    width: 100%;
+    text-align: center;
+}
+.formulario p{
+    font-size: 90%;
+}
+.formulario p span{
+    text-decoration: underline;
+    font-size: 90%;
+}
+.reducir-col-md-4{
+    width: 52%;
+    margin: 0 auto;
+}
+.col-md-4{
+    width: 41%;
+    padding: 0;
+    margin: 5px;
+}
+.form-control {
+    font-size: 80%;
+}
+.formulario .col-md-6{
+    width: 100%;
+    font-size: 110%;
+}
+.formulario .col-md-6 textarea{
+    width: 43%;
+}
+form button {
+    width: 43%;
+}
+.textoSobre-boton  {
+    margin-bottom: 15px;
+    margin-right: 28%;
+    font-size: 80%;
+}
+.btn-primary{
+    background-color: greenyellow !important;
+    border: 0px;
+}
+.col-12 {
+    margin-top: -7px;
+}
+
+/*footer*/
+footer .container-fluid{
+    width: 70%;
+}
+footer .navbar-nav{
+    margin: 0 auto;
+}
+footer .nav-item{
+    margin: auto 15px auto 15px;
+    text-align: center;
+
+}
+
+
+
+
+
